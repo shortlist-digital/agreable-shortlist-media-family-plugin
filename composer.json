@@ -1,6 +1,6 @@
 {
     "name": "shortlist-digital/wp-shortlist-media-family-plugin",
-    "description": "A plugin for custom widgets and fields that the Family site needs",
+    "description": "A plugin for people grid widget",
     "type": "wordpress-plugin",
     "license": "MIT",
     "authors": [
