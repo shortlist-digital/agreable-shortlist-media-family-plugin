@@ -1,6 +1,6 @@
 {
-    "name": "shortlist-digital/wp-shortlist-media-family-plugin",
-    "description": "A plugin for people grid widget",
+    "name": "shortlist-digital/agreable-shortlist-media-family-plugin",
+    "description": "A plugin for people grid widget and video header",
     "type": "wordpress-plugin",
     "license": "MIT",
     "authors": [
@@ -12,7 +12,7 @@
     "minimum-stability": "dev",
     "autoload": {
         "psr-4": {
-            "WpShortlistMediaFamilyPlugin\\": "app/"
+            "AgreableShortlistMediaFamilyPlugin\\": "app/"
         }
     },
     "require": {}

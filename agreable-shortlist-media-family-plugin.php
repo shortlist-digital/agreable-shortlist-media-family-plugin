@@ -3,7 +3,7 @@
 * @wordpress-plugin
 * Plugin Name:Agreable Shortlist Media Family Plugin
 * Plugin URI: http://github.com/shortlist-digital/agreable-shortlist-media-family-plugin
-* Description: A plugin for people grid widget
+* Description: A plugin for people grid widget and video header
 * Version: 1.0.0
 * Author: Shortlist Studio
 * Author URI: http://shortlist.studio
